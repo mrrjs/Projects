@@ -120,18 +120,18 @@ Loops.
 Data structures.
 Regex.
 Desiccation making.
-Recursion.
-Threading.
-Object oriented programming.
-Packet manipulation using scapy.
-Netfilterqueue.
-Socket programming.
-String manipulation.
-Exceptions.
-Serialisation.
-Compiling programs to binary executables.
-Sending & receiving HTTP requests.
-Parsing HTML.
++ Recursion.
++ Threading.
++ Object oriented programming.
++ Packet manipulation using scapy.
++ Netfilterqueue.
++ Socket programming.
++ String manipulation.
++ Exceptions.
++ Serialisation.
++ Compiling programs to binary executables.
++ Sending & receiving HTTP requests.
++ Parsing HTML.
 + more!
 
 Hacking topics:
